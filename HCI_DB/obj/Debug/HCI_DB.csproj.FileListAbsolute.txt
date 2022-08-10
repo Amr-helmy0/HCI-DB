@@ -1,0 +1,40 @@
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\bin\Debug\HCI_DB.exe.config
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\bin\Debug\HCI_DB.exe
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\bin\Debug\HCI_DB.pdb
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\obj\Debug\HCI_DB.csprojResolveAssemblyReference.cache
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Home.resources
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Properties.Resources.resources
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\obj\Debug\HCI_DB.csproj.GenerateResource.Cache
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\obj\Debug\HCI_DB.exe
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\obj\Debug\HCI_DB.pdb
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Insert_Data.resources
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\obj\Debug\HCI_DB.DB.resources
+c:\users\maher abdelhay\documents\visual studio 2015\Projects\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Login.resources
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\bin\Debug\HCI_DB.exe.config
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.exe
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.pdb
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\bin\Debug\HCI_DB.exe
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\bin\Debug\HCI_DB.pdb
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.csprojResolveAssemblyReference.cache
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.DB.resources
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Home.resources
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Insert_Data.resources
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Login.resources
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Properties.Resources.resources
+D:\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.csproj.GenerateResource.Cache
+E:\AMR AAL\New folder\HCI_DB\HCI_DB\HCI_DB\bin\Debug\HCI_DB.exe.config
+E:\AMR AAL\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.exe
+E:\AMR AAL\New folder\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.pdb
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\bin\Debug\HCI_DB.exe.config
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\bin\Debug\HCI_DB.exe
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\bin\Debug\HCI_DB.pdb
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.csproj.AssemblyReference.cache
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.DB.resources
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Home.resources
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Insert_Data.resources
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Login.resources
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.Properties.Resources.resources
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.csproj.GenerateResource.cache
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.csproj.CoreCompileInputs.cache
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.exe
+E:\AMR AAL\myproject\HCI_DB\HCI_DB\HCI_DB\obj\Debug\HCI_DB.pdb
